@@ -16,13 +16,14 @@ h3{
 
 .Big-Yoshi{
     display: block;
-    
+    border-radius: 50%;
     top: 50px;
    position:absolute
 }
 
 .Big-Yoshi-2{
     display: block;
+    border-radius: 50%;
     position:absolute;
     
     
