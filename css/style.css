@@ -16,7 +16,6 @@ h3{
 
 .Big-Yoshi{
     display: block;
-    
     width:300px;
     position: absolute;
     right: 100px;
@@ -24,10 +23,7 @@ h3{
 }
 
 .Big-Yoshi-2{
-    
-    
-     display: block;
-    
+    display: block;
     width:300px;
     position: absolute;
     left: 100px;
