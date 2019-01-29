@@ -91,7 +91,7 @@ body {
 
 .nav-col{
     padding: 200px 30px;
-    width 24%;
+    width: 24%;
     display: inline-block;
 }
 
@@ -114,6 +114,6 @@ body {
     transition: color .2s;
 }
 
-.nav-col ul li a: hover{
+.nav-col ul li a:hover{
     color: #1c9769;
 }
